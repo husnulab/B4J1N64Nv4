@@ -13,7 +13,7 @@ echo "\033[35;1m"
 cal
 date
 echo ""      
-echo "\033[32;1mAuthor : Mr.B4J1N64N & Mr.IM81" 
+echo "\033[32;1mAuthor : ZEF12" 
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
 echo "\033[36;1mIndonesia Security Lite"
 echo "\033[37;1mJawaBarat Blackhat Army"
@@ -193,7 +193,7 @@ read -p "root@T00Ls-B4J1N64Nv4]~#" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "ZEF12" | lolcat
 cd module
 php tp.php
 fi
@@ -202,14 +202,14 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "ZEF12"
 cd module
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "ZEF12"
 cd module
 php mataharimall.php
 fi
@@ -217,7 +217,7 @@ fi
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "ZEF12"
 cd module
 php hooq.php
 fi
@@ -225,7 +225,7 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "ZEF12"
 cd module
 php kfc.php
 fi
@@ -233,7 +233,7 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "ZEF12 & Mr.B4J1N64N"
 cd module
 php phd.php
 fi
@@ -241,7 +241,7 @@ fi
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "ZEF12 & Mr.B4J1N64N"
 cd module
 php whiskas.php
 fi
